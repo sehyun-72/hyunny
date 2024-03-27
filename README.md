@@ -1,5 +1,5 @@
 ## Hi everyone welcome to my Github ✨
-I'm a student in JBNU 
+JBNU | Software Engineering & Fusion program for IAB
 
 <h4>✨Contact✨</h4>
 <div>
