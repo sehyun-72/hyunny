@@ -1,13 +1,13 @@
 <h4>✨Contact✨</h4>
 <div>
   <a href="https://www.linkedin.com/in/sehyun-park-a5377029b/">
-    <img src="https://img.shields.io/badge/SehyunPark-0A66C2?style=for-the-badge&logo=LinkedIn"/>
+    <img src="https://img.shields.io/badge/SehyunPark-0A66C2?style=for-the-badge&logo=LinkedIn">
   </a>&nbsp
   <a href="mailto:hmhlover89@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp
   <a href="https://hyunny-lifelog.tistory.com/">
-    <img src="https://img.shields.io/badge/StudyLog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StudyLog-000000?style=for-the-badge&logo=tistory&logoColor=white">
   </a>&nbsp
 </div>
 
