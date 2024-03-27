@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://hyunny-lifelog.tistory.com/">
-    <img src="https://img.shields.io/badge/StudyLog-36465D?style=for-the-badge&logo=tumblr&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StudyLog-000000?style=for-the-badge&logo=tstory&logoColor=white"/>
   </a>
 </div>
 
