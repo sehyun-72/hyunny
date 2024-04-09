@@ -1,5 +1,5 @@
 ## Hi everyone welcome to my Github ✨
-JBNU | Software Engineering & Fusion program for IAB
+JBNU | Software Engineering & Convergence major for IAB
 
 <h4>✨Contact✨</h4>
 <div>
